@@ -11,5 +11,7 @@ can always improvise*/
 let salary = 25_000;
 let fines:f64 = 25_000.00;
 println!("Monthly salary is ${} and fines are ${}",salary,fines);
-
+/*:i32 used for whole numbers
+f64 for floats*/
+let score: i32 = 670
 }
